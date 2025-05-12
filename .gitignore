@@ -1,0 +1,63 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.idea/
+*.iml
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### Build tools ###
+build/
+target/
+dist/
+tmp/
+*.class
+
+### Ant ###
+report/
+ant_build/
+ant_output/
+
+### Jacoco ###
+jacoco.exec
+jacoco-report/
+coverage/
+*.exec
+*.ec
+*.em
+
+### Logs ###
+*.log
+
+### OS generated files ###
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Ignore Javadoc output
+doc/
+
