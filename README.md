@@ -76,4 +76,4 @@ This project was created for CWRU EECS 293 as part of a software craftsmanship c
 ## Contact
 
 Evan Holtzmeier  
-GitHub: [https://github.com/yourusername](https://github.com/evan-holtzmeier)  
+GitHub: [https://github.com/evan-holtzmeier](https://github.com/evan-holtzmeier)  
